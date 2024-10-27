@@ -18,6 +18,10 @@ This project aims to explore how communities engage with ICT, identifying key ba
 ## Problem Description
 Despite the growing availability of technology, many communities face challenges in effectively utilizing ICT. This project seeks to understand the level of ICT appropriation and its implications for community development.
 
+## Data Source
+The dataset used for this analysis was obtained from the following link:
+[Data Source](https://www.datos.gov.co/Ciencia-Tecnolog-a-e-Innovaci-n/Medici-n-del-nivel-de-apropiaci-n-TIC-en-la-comuni/mzrr-5rzf/data_preview)
+
 ## Methodology
 1. **Data Collection:** Data was obtained from community surveys focusing on ICT usage.
 2. **Data Cleaning:** Data was cleaned and preprocessed for analysis.
